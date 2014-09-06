@@ -1,4 +1,0 @@
-EduMenttor
-==========
-
-Edu App
